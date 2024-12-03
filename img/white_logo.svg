@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.0 0.0 198.61154855643045 261.1102362204724"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg32"
+   sodipodi:docname="logo_1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.706176"
+     inkscape:cx="110.18793"
+     inkscape:cy="150.33619"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <clipPath
+     id="p.0">
+    <path
+       d="m0 0l198.61154 0l0 261.11023l-198.61154 0l0 -261.11023z"
+       clip-rule="nonzero"
+       id="path1" />
+  </clipPath>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="fill:#000000" />
+  <path
+     style="fill:#ffffff;stroke-width:0.586106"
+     d="m 17.194898,207.67859 c 0.213555,-12.62476 0.388282,-50.60443 0.388282,-84.39927 V 61.834185 l 3.663163,-0.01615 3.663163,-0.01615 13.686484,-23.135036 c 7.527567,-12.724271 13.857511,-23.124405 14.066544,-23.111411 0.209033,0.013 5.274681,10.214669 11.256996,22.670389 L 74.796464,60.87259 87.656826,60.73452 c 10.20584,-0.109571 12.990714,-0.307369 13.491924,-0.958276 0.34736,-0.451114 6.65573,-10.723835 14.0186,-22.82827 l 13.38703,-22.008063 11.76657,23.154085 11.76658,23.154085 h 5.42497 5.42497 l 6.2e-4,11.282541 c 3.4e-4,6.205398 0.17493,24.899706 0.38798,41.542908 l 0.38735,30.26037 -36.14044,-0.30943 -36.140442,-0.30943 v 29.15114 29.15114 l 35.752472,-0.43034 35.75246,-0.43033 v 14.73803 14.73804 H 89.872043 16.806615 Z"
+     id="path34" />
+</svg>
