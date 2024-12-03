@@ -330,3 +330,9 @@ a{
   animation: slide_product_left_right_1 0.8s;
   animation-duration: 3s;
 }
+
+
+#link_content a{
+  color: #000;
+  text-decoration: none;
+}
